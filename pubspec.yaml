@@ -2,7 +2,7 @@ name: flutter_ratingreview
 description: Flutter Rating Review Package.
 version: 0.0.1
 author:Nikhil I
-homepage:
+homepage:https://github.com/nikhilishwarkulal/flutter_ratingreview
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
